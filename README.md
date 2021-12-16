@@ -18,6 +18,14 @@ git remote add origin https://github.com/hyeyeong-nam/Repository의 이름.git
 git push -u origin main
 ```
 
+1.3 1-2의 방법을 따른다면 README.md를 만들 수 있습니다.
+
+2-1. 두 번째 방법은 creating a new file이라는 문장을 눌러 만들 수 있습니다.
+
+2-2. 이미 다른 파일이 있는 상태라면 Add file의 creat new file을 눌러 만들 수 있습니다.
+
+2-3. 저는 이 방법을 통해 README.md를 만들었습니다.
+
 ## Sites using Butane Jekyll Theme
 - [v2bv.win](https://v2bv.win)
 
