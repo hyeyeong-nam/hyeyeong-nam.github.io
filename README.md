@@ -55,5 +55,17 @@ gem install bundler minima rdiscount
 
 1-6. 해당 사항들을 끝내면 서버가 잘 돌아가는지 확인하고 자신의 Repository에 올립니다.
 
+2-1. 제가 사용한 방법은 지금부터 소개할 두 번째 방법입니다.
 
+2-2. 먼저 https://jekyllrb.com/ <- 이곳처럼 테마를 고를 수 있는 곳에서 원하는 테마를 선택합니다.
+
+2-3. 그 다음에 그 테마의 github으로 가 선택한 테마를 fork 해옵니다.
+
+2-4. fork 해온 곳을 github.io를 위한 Repository로 만듭니다.
+
+2-5. 저는 이 방법을 통해 테마를 적용했습니다.
+
+참고 사이트: https://calgaryhomeless.tistory.com/1
+
+## 블로그 Build 과정
 
