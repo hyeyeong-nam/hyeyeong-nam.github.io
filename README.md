@@ -1,4 +1,4 @@
-# Biu-Jekyll-Theme
+# Biu-Jekyll-The유레카
 
 It is a Jekyll theme based on [butane-jekyll-theme](https://github.com/alexcarpenter/butane-jekyll-theme) by @alexcarpenter
 
