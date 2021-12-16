@@ -4,6 +4,7 @@ It is a Jekyll theme based on [butane-jekyll-theme](https://github.com/alexcarpe
 
 ## 1.README.md를 만들자
 README.md 파일은 두 가지 방법으로 생성할 수 있습니다.
+
 1-1. 첫 번째 방법은 
 2. `cd Biu-Jekyll-Theme`
 3. `rm -rf CHANGELOG.md README.md`
